@@ -1,0 +1,10 @@
+
+AUTONOMOUS LUNAR LANDING USING PPO
+==================================
+
+Environment : LunarLander-v3
+Episodes    : 100
+Mean Reward : -22.30
+Std Reward  : 86.03
+
+Evaluation Complete
