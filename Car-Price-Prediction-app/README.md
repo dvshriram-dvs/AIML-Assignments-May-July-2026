@@ -17,6 +17,7 @@ A Machine Learning-powered web application that estimates the resale value of a 
 ## 🔗 Project Links
 
 * **GitHub Repository:** https://github.com/dvshriram-dvs/Car-Value-Predictor-app.git
+* **Live Deployment URL:** https://car-value-predictor-app.onrender.com
 
 ---
 
