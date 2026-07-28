@@ -2,9 +2,9 @@
 
 A web-based Movie Recommendation System built using **Python**, **Flask**, **Pandas**, and **Scikit-learn**. The application recommends similar movies based on genre similarity using **TF-IDF Vectorization** and **Cosine Similarity**.
 
-# Live Deployment URL : https://movie-recommendation-system-bgtb.onrender.com
+## Live Deployment URL : https://movie-recommendation-system-bgtb.onrender.com
 
-# GitHub Repository URL: https://github.com/dvshriram-dvs/Movie-Recommendation-System.git
+## GitHub Repository URL: https://github.com/dvshriram-dvs/Movie-Recommendation-System.git
 
 ## 📌 Project Overview
 
